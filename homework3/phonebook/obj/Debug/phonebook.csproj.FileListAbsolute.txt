@@ -1,0 +1,7 @@
+C:\Users\kate_\Desktop\C#\domashni raboti\phonebook\phonebook\bin\Debug\phonebook.exe.config
+C:\Users\kate_\Desktop\C#\domashni raboti\phonebook\phonebook\bin\Debug\phonebook.exe
+C:\Users\kate_\Desktop\C#\domashni raboti\phonebook\phonebook\bin\Debug\phonebook.pdb
+C:\Users\kate_\Desktop\C#\domashni raboti\phonebook\phonebook\obj\Debug\phonebook.csprojAssemblyReference.cache
+C:\Users\kate_\Desktop\C#\domashni raboti\phonebook\phonebook\obj\Debug\phonebook.csproj.CoreCompileInputs.cache
+C:\Users\kate_\Desktop\C#\domashni raboti\phonebook\phonebook\obj\Debug\phonebook.exe
+C:\Users\kate_\Desktop\C#\domashni raboti\phonebook\phonebook\obj\Debug\phonebook.pdb
