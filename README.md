@@ -6,5 +6,7 @@ homework1: </br>
 (bonus several easy tasks)
  </br>
 :two: Class students, an array with four students, the user should enter a name and the user information should be desplayed in the console if the user by that name exists otherwise it shows an error message.
+ </br>
+:three: Find if the user exists in a collection (dictionary) , if not add him!
 
 
